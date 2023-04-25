@@ -4,7 +4,7 @@
 This project aims to predict how much an employee should be paid, based on years of experience in their work. A set of historic data is used to create such predictions.
 ```
 
-## Prequesites 
+## Prerequisites 
 #### 1. Have an AWS Account
 Log into your AWS 
 
